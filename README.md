@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<h1 align="center"><>Hi, I'm <a href="https://github.com/wcloor">Wcloor</a>!</h1>
+<h1 align="center">Welcome to my GitHub profile~ OwO</h1>
 <!--
 **Wcloor/Wcloor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Wcloor&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
